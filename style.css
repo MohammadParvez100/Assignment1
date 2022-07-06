@@ -1,0 +1,204 @@
+body {
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.text-control {
+    text-align: center;
+    color: white;
+    font-size: 50PX;
+}
+
+.text-control1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: large;
+}
+
+
+.button {
+    background-color: rgb(238, 51, 26);
+    border-radius: 5px;
+    padding: 10px 10px;
+    text-decoration: none;
+    color: rgb(61, 170, 224);
+
+
+}
+
+.button-center {
+    text-align: center;
+    background-image: url(donate-today-main/images/donation9.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 1465px;
+    height: 600px;
+    padding-top: 200px;
+
+}
+
+.site-by-site {
+    display: flex;
+    justify-content: center;
+
+}
+
+.design {
+    background-color: burlywood;
+    margin: 20px 20px;
+    padding: 30px 30px;
+
+}
+
+#specific-design {
+    background-color: rgb(156, 98, 130);
+    margin: 20px 20px;
+    padding: 30px 30px;
+    border: 4px solid rgb(209, 25, 38);
+    color: white;
+}
+
+.align {
+    text-align: center;
+}
+
+.plan-align {
+    display: flex;
+    flex-direction: row;
+
+}
+
+#flex-container1 {
+    background-color: cornsilk;
+    margin: 20px 20px;
+    padding: 5px 5px;
+
+}
+
+#flex-container2 {
+    background-color: rgb(201, 166, 25);
+    margin: 20px 20px;
+    padding: 10px 10px;
+}
+
+
+#flex-container3 {
+    background-color: rgb(157, 230, 88);
+    margin: 20px 20px;
+    padding: 10px 10px;
+
+}
+
+.flex-amount {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 20px;
+    width: 200px;
+    text-align: center;
+    border-width: 0 0 2px;
+}
+
+section {
+
+    margin-bottom: 120px;
+}
+
+.flex-amount1 {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 20px;
+    width: 150px;
+    text-align: center;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.todo-center {
+
+    margin-top: 140px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+#img-control {
+    width: 90%;
+    height: 100%;
+}
+
+.form-box {
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    /* height: 100vh; */
+    box-sizing: border-box;
+}
+
+.form-box input {
+    font-size: 18px;
+    color: rgb(231, 40, 40);
+    padding: 15px 10px;
+    border: none;
+    outline: none;
+    background-color: rgb(170, 162, 162);
+}
+
+.form-box button {
+    font-size: 18px;
+    color: rgb(97, 15, 237);
+    padding: 15px 20px;
+    border: none;
+    outline: none;
+
+}
+
+.flex-amount5 {
+    display: block;
+    margin-right: 200px;
+    margin-left: 200px;
+    font-size: 20px;
+    /* width: 150px; */
+    text-align: center;
+}
+
+footer h1 {
+    color: chocolate;
+}
+
+footer h3 {
+    color: white;
+}
+
+footer {
+    width: 1515px;
+    height: 150px;
+    background-color: black;
+    text-align: center;
+    background-size: 100% 100%;
+
+
+}
+
+.stragetry {
+    display: flex;
+
+}
+
+.design1 {
+    background-color: rgb(199, 243, 24);
+    margin: 20px 20px;
+    padding: 30px 30px;
+    border-radius: 10px;
+    box-shadow: 5px 3px 7px;
+
+}
