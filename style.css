@@ -142,6 +142,7 @@ section {
     justify-content: center;
     /* height: 100vh; */
     box-sizing: border-box;
+    background-color: rgb(235, 191, 238);
 }
 
 .form-box input {
